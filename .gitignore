@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+BCICIV_2a_gdf/
+*.gdf
+*.pyc
